@@ -4,6 +4,7 @@ layout: home
 nav_order: 1
 ---
 ![Ellen De Ridder](assets/images/me.jpg)
+Photo by [Felix Bal](https://www.instagram.com/felixbalphoto/)
 
 # Ellen De Ridder
 
